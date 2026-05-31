@@ -1,0 +1,15 @@
+@import "tailwindcss";
+body{
+    background-color:#09111A;
+    
+    width: 100%;
+    height: 100vh;
+}
+@font-face{
+    font-family: wolf;
+    src: url('Fonts/inter-tight-latin-normal.woff2');
+}
+@font-face{
+    font-family: wolfy;
+    src: url('Fonts/next-sass.ttf');
+}
