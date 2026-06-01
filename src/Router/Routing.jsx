@@ -8,6 +8,8 @@ const Routing = () => {
     <div>
       <Routes>
         <Route path='/' element={<Home/>}/>
+        <Route path='/index.html' element={<Home/>} />
+
       </Routes>
     </div>
     </BrowserRouter>
